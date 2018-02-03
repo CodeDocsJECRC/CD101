@@ -7,7 +7,7 @@ CodeDocs course 101
 
 **Venue** - some lecture halls in A-block.
 ## Syllabus
-This course is oriented to teach you and help you learn **Web Development, Android Development** and other essential and relevant skills needed for any path. Topics include algorithms, data structures, resource management, cloud, software engineering, web and android development. Languages include **HTML, CSS, JavaScript, jQuery, JAVA** (JavaScript and JavaScript and different :stuck_out_tongue_closed_eyes: ) and covering **GIT version control system, Amazon Web Services (AWS), Android Studio**, etc.
+This course is oriented to teach you and help you learn **Web Development, Android Development** and other essential and relevant skills needed for any path. Topics include algorithms, data structures, resource management, cloud, software engineering, web and android development. Languages include **HTML, CSS, JavaScript, jQuery, JAVA** (JavaScript and JavaScript are different :stuck_out_tongue_closed_eyes: ) and covering **GIT version control system, Amazon Web Services (AWS), Android Studio**, etc.
 Problems sets and assignments are inspired from basic domains.
 The course is designed for every rank of student (any branch, semester).
 
