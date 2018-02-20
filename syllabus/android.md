@@ -5,18 +5,16 @@
 ## Lecture 0 - 	Getting started with Android and Android Architecture
 - What is Android?
   - Basics in Android
-  - Topics to be covered briefly ([Firebase](https://firebase.google.com/), [Android Studio](https://developer.android.com/studio/index.html) etc)
-- App Fundamentals and it's Components
+  - Platfom to be used [Android Studio]
+- Application Building Components
   - Activities 
+    - XML Layouts
+	- Java Files
   - Manifests
-- Platform Architecture
-  - What is it? ([Developer's Site](https://developer.android.com/index.html))
-  - Gradle and it's properties
+  - SDK [Software Development Kit]
+- Overview of the course  
+  - About the lectures
+  - Topics to be covered
 - Websites to refer
   - [StackOverflow](https://stackoverflow.com/)
   - [Android Hive](https://www.androidhive.info/) etc..
-- Java Fundamentals
-  - Basic Introduction
-  - Datatypes
-  - Conditional Statements [if, if-else, switch-case etc]
-  - Looping Statements [for, while etc]
