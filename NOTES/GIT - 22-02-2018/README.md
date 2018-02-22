@@ -15,20 +15,11 @@
 Download Git Bash from [GitForWindows](https://gitforwindows.org)
 
 #### Setting up a repository
-Initializing a Git repository for a new or existing project -
-- `git init` - Initialize the current directory as git directory
-- `git remote add <remote_repo_name> <remote_repo_URL>`,
-
-  e.g. `git remote add origin https://github.com/CodeDocsJECRC/society`
-- `git commit -m "You're all set to go!"`
-- `git push -u <remote_repo_name> <branch_name>`,
-
-  e.g. `git push -u origin master` 
-- `git --version`
 Cloning an existing Git repo -
 - `git clone <url_of_your_remote_repository>`,
 
   e.g. `git clone https://github.com/CodeDocsJECRC/society`
+
 Configuring Git repo for remote collaboration -
 - `git config --global user.name <user_name>` - configure user name for that repository,
 
@@ -37,11 +28,23 @@ Configuring Git repo for remote collaboration -
 
   e.g. `git config --global user.email shivsonic05@gmail.com`
 - `git config --list` - list the configured details
+
+Initializing a Git repository for a new or existing project -
+- `git init` - Initialize the current directory as git directory
+- `git remote add <remote_repo_name> <remote_repo_URL>`,
+
+  e.g. `git remote add origin https://github.com/CodeDocsJECRC/society`
+- `git add .`
+- `git commit -m ""`
+- `git push -u <remote_repo_name> <branch_name>`,
+
+  e.g. `git push -u origin master` 
+
 ####Common Git version control commands -
-- `git add <file_name>`,
+- `git add <file_name>` - File will be tracked 
 
   e.g. `git add README.md`
-- `git commit -m "First Commit"` - arguement '-m' stands for message
+- `git commit -m "First Commit"` - tracked file will be committed
 - `git push origin <branch_name>` - pushing commits to server repository,
 
   e.g. `git push origin bug`
