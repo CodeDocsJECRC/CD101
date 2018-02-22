@@ -29,7 +29,7 @@ Configuring Git repo for remote collaboration -
   e.g. `git config --global user.email shivsonic05@gmail.com`
 - `git config --list` - list the configured details
 
-#### Initializing a Git repository for a new or existing project -
+Initializing a Git repository for a new or existing project -
 - `git init` - Initialize the current directory as git directory
 - `git remote add <remote_repo_name> <remote_repo_URL>`,
 
