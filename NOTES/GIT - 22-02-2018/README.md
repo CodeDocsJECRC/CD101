@@ -14,11 +14,22 @@
 #### Windows
 Download Git Bash from [GitForWindows](https://gitforwindows.org)
 
-#### Git Commands
+#### Setting up a repository
+Initializing a Git repository for a new or existing project -
+- `git init` - Initialize the current directory as git directory
+- `git remote add <remote_repo_name> <remote_repo_URL>`,
+
+  e.g. `git remote add origin https://github.com/CodeDocsJECRC/society`
+- `git commit -m "You're all set to go!"`
+- `git push -u <remote_repo_name> <branch_name>`,
+
+  e.g. `git push -u origin master` 
 - `git --version`
+Cloning an existing Git repo -
 - `git clone <url_of_your_remote_repository>`,
 
   e.g. `git clone https://github.com/CodeDocsJECRC/society`
+Configuring Git repo for remote collaboration -
 - `git config --global user.name <user_name>` - configure user name for that repository,
 
   e.g. `git config --global user.name ShivSoni5`
@@ -26,6 +37,7 @@ Download Git Bash from [GitForWindows](https://gitforwindows.org)
 
   e.g. `git config --global user.email shivsonic05@gmail.com`
 - `git config --list` - list the configured details
+####Common Git version control commands -
 - `git add <file_name>`,
 
   e.g. `git add README.md`
@@ -49,8 +61,6 @@ Download Git Bash from [GitForWindows](https://gitforwindows.org)
 - `git log` - provides commit ID and history 
 - `git reset --hard old_ID` - Head to any previous commit
 - `git diff old_ID new_ID` - To view the changes you make in a file
-
-- `git init` - Initializing a Git repository for a new or existing project
 
 
 
