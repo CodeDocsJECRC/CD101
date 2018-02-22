@@ -38,10 +38,10 @@ Initializing a Git repository for a new or existing project -
 - `git commit -m "message"`
 - `git push -u <remote_repo_name> <branch_name>`,
 
-  e.g. `git push -u origin master` 
+  e.g. `git push -u origin master`
 
-#### Common Git version control commands 
-- `git add <file_name>` - File will be tracked 
+#### Common Git version control commands
+- `git add <file_name>` - File will be tracked
 
   e.g. `git add README.md`
 - `git commit -m "First Commit"` - tracked file will be committed
@@ -50,7 +50,7 @@ Initializing a Git repository for a new or existing project -
   e.g. `git push origin bug`
 - `git branch <branch_name>` - Creating new branch,
 
-  e.g. `git branch bug` 
+  e.g. `git branch bug`
 - `git checkout <branch_name>` - Switch Branch,
 
   e.g. `git checkout bug`
@@ -61,11 +61,16 @@ Initializing a Git repository for a new or existing project -
 - `git branch -d branch_name` - Deleting a branch,
 
   e.g. `git branch -d bug`
-- `git log` - provides commit ID and history 
+- `git log` - provides commit ID and history
 - `git reset --hard old_ID` - Head to any previous commit
 - `git diff old_ID new_ID` - To view the changes you make in a file
 
-#### Some useful resources
-- [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+### Some useful resources
+#### Documentations and Tutorials
+- [Learn Git](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 - [Try Git](https://try.github.io/levels/1/challenges/1)
 - [Git-Book](https://git-scm.com/book/en/v2)
+
+#### Video Tutorials & Playlists
+- [thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
+- [cs50](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
