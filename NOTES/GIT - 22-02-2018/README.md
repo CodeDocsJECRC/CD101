@@ -40,7 +40,7 @@ Initializing a Git repository for a new or existing project -
 
   e.g. `git push -u origin master` 
 
-####Common Git version control commands -
+####Common Git version control commands 
 - `git add <file_name>` - File will be tracked 
 
   e.g. `git add README.md`
@@ -65,13 +65,7 @@ Initializing a Git repository for a new or existing project -
 - `git reset --hard old_ID` - Head to any previous commit
 - `git diff old_ID new_ID` - To view the changes you make in a file
 
-
-
-
-
-
-
-
-
-
-Some useful resources -
+####Some useful resources
+- [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+- [Try Git](https://try.github.io/levels/1/challenges/1)
+- [Git-Book](https://git-scm.com/book/en/v2)
