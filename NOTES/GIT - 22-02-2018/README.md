@@ -35,7 +35,7 @@ Initializing a Git repository for a new or existing project -
 
   e.g. `git remote add origin https://github.com/CodeDocsJECRC/society`
 - `git add .`
-- `git commit -m ""`
+- `git commit -m "message"`
 - `git push -u <remote_repo_name> <branch_name>`,
 
   e.g. `git push -u origin master` 
