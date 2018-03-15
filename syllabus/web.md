@@ -61,3 +61,21 @@
   - date & time
   - color
   - file picker
+
+## Lecture 2 - CSS - Styling the web
+
+## Lecture 3 - JavaScript
+- What is JavaScript?
+- JavaScript Environment - Running Order
+- Client Side VS Server Side
+- Dynamic VS Static
+- How to user JS in a webpage - External, Internal, Inline Handler
+- Variable (Declaration, Types - Number, String, Bool, Arrays, Objects)
+- Operators(+, -, \*, /, ++, --, =, +=, -=, \*=, /=)
+- Comparision(===, !==, <, >, <=, >=)
+- Strings /w Objects (length, indexOf, slice, replace, toLowerCase, toUpperCase)
+- Array (String -> Array(split, join, toString()), Add/Remove - push, pop)
+- Condition (if else, switch, Ternary ? :)
+- Loop (for, continue, break, while and do... while)
+- Functions (anonymous, parameters, return)
+- Objects (dot notation, this)
