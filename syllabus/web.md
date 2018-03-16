@@ -79,3 +79,12 @@
 - Loop (for, continue, break, while and do... while)
 - Functions (anonymous, parameters, return)
 - Objects (dot notation, this)
+
+## Lecture 4 - Dynamic client-side scripting
+- Functions
+- Event Listeners (Event Handler Properties, Inline event handlres, addEventListener, removeEventListener)
+- onclick, onfocus, onblur, ondblclick, onkeypress,
+- e, preventDefault()
+- Selector - querySelector, querySelectorAll, getElementById, getElementsByClassName, getElementsByTagName
+- Objects, Object Oriented JS (create object from a function, Object(), Object.create())
+- JSON (syntax, fetch, parse)
